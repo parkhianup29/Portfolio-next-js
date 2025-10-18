@@ -39,6 +39,9 @@ Certifications:
 - GitHub Copilot: AI-Powered Development (2025)
 - Google Generative AI Certification (2025)
 
+Visa Status / Work Authorization:
+- H1B Visa, eligible for employer sponsorship/ transfer.
+
 Education:
 - Diploma Computer Science, CDAC Pune (2017)
 - BE Electrical Engineering, Priyadarshini College of Engineering (2012-2016)
