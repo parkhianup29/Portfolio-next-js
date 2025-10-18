@@ -6,8 +6,10 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import ChatBox from "./components/Chatbox";
 import HashLoader from "react-spinners/HashLoader";
+import TechTrendsRadar from "./components/TechTrendsRadar";
 
 import { useState, useEffect } from "react";
+
 
 const override = {
   display: "flex",
@@ -44,6 +46,7 @@ const App = () => {
           <Navbar></Navbar>
           <About></About>
           <ChatBox></ChatBox>
+          <TechTrendsRadar></TechTrendsRadar>
           <Experience></Experience>
           <Education></Education>
           <Projects></Projects>

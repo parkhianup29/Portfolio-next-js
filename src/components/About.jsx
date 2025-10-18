@@ -18,7 +18,7 @@ const About = () => {
 
             </span>
             <p className="ABOUT text-xl max-sm:text-[15px] bg-clip-text text-transparent  bg-gradient-to-r  from-[#00040f] to-slate-500 dark:from-slate-500 dark:to-slate-200 max-w-[470px] mt-5 pl-1">
-              Experienced web developer with 7 years of expertise in building dynamic, user-friendly websites and applications. Passionate about using innovative solutions to solve real-world problems and enhance user experiences.
+              Experienced web developer with 8 years of expertise in building dynamic, user-friendly websites and applications. Passionate about using innovative solutions to solve real-world problems and enhance user experiences.
             </p>
           </div>
           <Lottie
