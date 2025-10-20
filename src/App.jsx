@@ -54,7 +54,7 @@ const App = () => {
           <Contact></Contact>
         </div>
       )}
-      <Analytics mode="production" debug={true} />
+      <Analytics />
     </>
   );
 };
