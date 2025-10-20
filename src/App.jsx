@@ -7,6 +7,7 @@ import Contact from "./components/Contact";
 import ChatBox from "./components/Chatbox";
 import HashLoader from "react-spinners/HashLoader";
 import TechTrendsRadar from "./components/TechTrendsRadar";
+import { Analytics } from '@vercel/analytics/react';
 
 import { useState, useEffect } from "react";
 
@@ -53,6 +54,7 @@ const App = () => {
           <Contact></Contact>
         </div>
       )}
+       <Analytics />
     </>
   );
 };
