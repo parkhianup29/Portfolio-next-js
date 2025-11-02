@@ -13,7 +13,6 @@ const data = [
 
 const TechTrendsRadar = () => (
   <div style={{ marginTop: 24 }}>
-    <h2>Tech Trends I’m Tracking</h2>
     <ResponsiveContainer width="100%" height={400}>
       <RadarChart data={data}>
         <PolarGrid />
